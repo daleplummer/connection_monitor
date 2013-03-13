@@ -1,0 +1,9 @@
+connction_monitor.pl - written by Dexter Duncan
+
+is a little perl program that is used to monitor
+the status of a network connection.  We used it in the student workroom
+when the students were complaining of wireless connections dropping.
+
+Since there is an access point *in the room* I didn't think it was a 
+network problem.  Used this program to see if that was true.  Ran it on
+an old laptop and everything looked OK.
